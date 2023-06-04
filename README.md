@@ -9,4 +9,4 @@ Explore my GitHub profile to discover how I combine the art of PPC advertising w
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauquintero10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauquintero10)](https://github.com/anuraghazra/github-readme-stats)
