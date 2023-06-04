@@ -6,6 +6,6 @@ My strong analytical mindset and proficiency in data analysis tools 📈 enable 
 With a collaborative nature and excellent communication skills 📢 , I thrive in cross-functional teams 🤝🏻, driving data-driven decision-making and business growth.😎  🚀 ⚡
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauquintero10&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauquintero10&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
