@@ -7,3 +7,4 @@ With a collaborative nature and excellent communication skills 📢 , I thrive
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauquintero10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
