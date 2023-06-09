@@ -9,6 +9,7 @@ With a collaborative nature and excellent communication skills 📢 , I thrive
 
 <div> 
   <a href="https://www.linkedin.com/in/lauraqv/" target="_blank"><img align="center" alt="lau1" height="35" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target"_blank"></a> 
+  <a href="https://www.instagram.com/lauramarqv7/" target="_blank"><img align="center" alt="lau1" height="35" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target"_blank"></a> 
                   
 ##
   
@@ -20,12 +21,11 @@ With a collaborative nature and excellent communication skills 📢 , I thrive
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="lau1" height="35" width="110" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="lau1" height="35" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="lau1" height="35" width="60" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="lau1" height="35" width="140" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="lau1" height="35" width="140" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="lau1" height="35" width="140" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="laupython" height="35" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" target"_blank"></a>
+  <img align="center" alt="laumysql" height="35" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" target"_blank"></a>
+  <img align="center" alt="laupostgres" height="35" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"target"_blank"></a>
+  <img align="center" alt="lauR" height="35" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" target"_blank"></a>
+ 
 </div> 
 
 ##
