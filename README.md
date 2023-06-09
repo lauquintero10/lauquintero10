@@ -12,16 +12,14 @@ With a collaborative nature and excellent communication skills 📢 , I thrive
                   
 ##
 
-<div style="display: inline_block"><br>
   <img align="center" alt="laupython" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" target"_blank"></a>
   <img align="center" alt="laumysql" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" target"_blank"></a>
   <img align="center" alt="laupostgres" height="50" width="1000" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"target"_blank"></a>
   <img align="center" alt="lauR" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" target"_blank"></a>
-</div> 
 
 ##
                                                         
                                                           
 
-
+<div style="display: inline_block"><br>
 
