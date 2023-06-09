@@ -8,7 +8,7 @@ With a collaborative nature and excellent communication skills 📢 , I thrive
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/lauraqv/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target"_blank"></a> 
+  <a href="https://www.linkedin.com/in/lauraqv/" target="_blank"><img align="center" alt="lau1" height="35" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target"_blank"></a> 
                   
 ##
   
